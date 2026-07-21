@@ -1,0 +1,36 @@
+# CyperMark — .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Presets (user data)
+*.json
+!requirements.txt
+
+# Exe builds (releases only, not in repo)
+dist/
+dist_v2/
