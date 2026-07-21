@@ -73,12 +73,6 @@ Designed for:
 
 ---
 
-## 🖥️ Screenshot
-
-<p align="center">
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/screenshot.png" width="800"/>
-</p>
-
 ---
 
 ## ⚡ Quick Start (30 seconds)
