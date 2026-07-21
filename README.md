@@ -1,110 +1,209 @@
-# ⚡ CyperMark
+# ⚡ CyperMark — Mass Watermark Tool • One Click • Bulk Logo Stamp
 
 <p align="center">
-  <b>Пакетное наложение водяных знаков на изображения</b><br>
-  <b>Batch watermark tool for images</b>
+  <b>Protect 500 images in 30 seconds • AI smart placement • Text + Logo • 15 languages</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cyperxyk-lang/CyperMark/releases">
+    <img src="https://img.shields.io/badge/Download-CyperMark_v2.exe-brightgreen?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat"/>
+  <img src="https://img.shields.io/badge/15%20Languages-🌍-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/No%20Install-Portable-success?style=flat"/>
 </p>
 
 ---
 
-## 🇷🇺 CyperMark
+## 🚀 The Concept
 
-**CyperMark** — это быстрый и удобный инструмент для пакетного наложения водяных знаков на изображения. Создан для AI-художников, фотографов и контент-мейкеров.
+> **Mass watermark. One click. Zero effort.**
 
-### Возможности
+CyperMark is a **portable Windows tool** that stamps your brand / logo / copyright onto **hundreds of images in seconds**. Drop your photos, pick your watermark, hit START — done.
 
-- ✏️ **Текстовый водяной знак** — любой текст, 147+ шрифтов, цвет, обводка
-- 🖼️ **Логотип** — PNG, JPG, WEBP, BMP, TIFF (с прозрачностью)
-- 📦 **Пакетная обработка** — 500 фото за 30 секунд
-- 🎯 **AI Auto-Placement** — умное размещение в свободной области
-- 🔄 **Замощение (Tile)** — водяной знак по всей поверхности с поворотом
-- 👁️ **Live Preview** — мгновенное обновление при изменении настроек
-- 💾 **Выходной формат** — PNG / JPEG / WebP с настройкой качества
-- 📁 **Сохранение пресетов** — быстрый доступ к любимым настройкам
+Designed for:
+- 🎨 **AI Artists** — protect your AI-generated art from theft
+- 📸 **Photographers** — batch copyright your portfolio
+- 🏪 **E-commerce** — bulk watermark product photos
+- 🧑‍💻 **Content Creators** — stamp your social media visuals
+- 🏢 **Business** — brand internal image libraries
 
-### Скриншот
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| ⚡ **Bulk Processing** | 500 images in ~30 seconds. Seriously. |
+| ✏️ **Text Watermark** | Any text, 147+ fonts, color picker, stroke/outline |
+| 🖼️ **Logo Watermark** | PNG / JPG / WEBP / BMP / TIFF with transparency |
+| 🎯 **AI Smart Placement** | Auto-detects empty areas → places watermark there |
+| 🔄 **Tile Mode** | Cover full surface with repeat, rotate any angle |
+| 👁️ **Live Preview** | See changes instantly before processing |
+| 🎚️ **Opacity & Rotation** | Fine-tune watermark visibility |
+| 💾 **Output Formats** | PNG (lossless), JPEG, WebP with quality slider |
+| 📁 **Preset System** | Save your config, load it later — zero re-config |
+| 🌍 **15 Languages** | 🇷🇺🇬🇧🇩🇪🇫🇷🇪🇸🇮🇹🇧🇷🇨🇳🇯🇵🇰🇷🇸🇦🇹🇷🇵🇱🇳🇱🇸🇪 |
+| 🖥️ **Portable .exe** | Download → run. No install, no dependencies |
+| ⌨️ **CLI Mode** | Headless batch processing for automation |
+
+---
+
+## 📸 Examples
 
 <p align="center">
-  <i>(Скриншот приложения)</i>
+  <i>AI-generated art protected with CyperMark text + logo watermark (bottom-right, 60% opacity)</i>
 </p>
 
-### Установка
+<p align="center">
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_1.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_2.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_3.png" width="200"/>
+  <br>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_4.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_5.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_6.png" width="200"/>
+</p>
 
-**Вариант 1 — Готовый .exe (рекомендуется):**
-1. Скачай последний релиз из [Releases](https://github.com/cyperxyk-lang/CyperMark/releases)
-2. Запусти `CyperMark_v2.exe` — установка не требуется
+---
 
-**Вариант 2 — Из исходников:**
+## 🖥️ Screenshot
+
+<p align="center">
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/screenshot.png" width="700"/>
+</p>
+
+---
+
+## ⚡ Quick Start (30 seconds)
+
 ```bash
+# Option 1 — Download portable EXE (no install)
+1. Go to https://github.com/cyperxyk-lang/CyperMark/releases
+2. Download CyperMark_v2.exe
+3. Run it → drag images → click START
+
+# Option 2 — Run from source
 git clone https://github.com/cyperxyk-lang/CyperMark.git
 cd CyperMark
 pip install -r requirements.txt
 python main_v2.py
 ```
 
-### Использование
-
-1. Нажми **"📁 Добавить файлы"** или **"📂 Добавить папку"**
-2. Выбери тип водяного знака: **Текст** или **Логотип**
-3. Настрой внешний вид (шрифт, размер, цвет, прозрачность, поворот)
-4. Выбери позицию или **"Замостить"**
-5. Нажми **"🚀 ЗАПУСТИТЬ"** — готово!
-
-### CLI режим
+### CLI Mode (for automation / batch scripts)
 
 ```bash
-CyperMark.exe --cli -i ./photos -o ./output -t "© 2026"
+CyperMark_v2.exe --cli -i "C:\Photos" -o "C:\Output" -t "© MyBrand 2026" --font-size 48 --opacity 70
+```
+
+Parameters:
+| Flag | Description |
+|------|-------------|
+| `-i` / `--input` | Input folder or file |
+| `-o` / `--output` | Output folder |
+| `-t` / `--text` | Watermark text |
+| `--font-size` | Font size (default: 36) |
+| `--opacity` | Opacity % (default: 60) |
+| `--position` | Position: tl, tc, tr, c, bl, bc, br, tile |
+| `--format` | Output format: png, jpg, webp |
+| `--suffix` | Output filename suffix |
+
+---
+
+## 🎯 Why CyperMark?
+
+```
+┌──────────────────────────────────────────────┐
+│  ❌ Photoshop actions — slow, complex         │
+│  ❌ Online tools — upload limits, privacy risk│
+│  ❌ Scripts — need coding skills              │
+│  ✅ CyperMark — drag, click, done. FREE.     │
+└──────────────────────────────────────────────┘
+```
+
+- **No installation** — single .exe, runs from USB stick
+- **No upload** — everything runs locally on your PC
+- **No limits** — process 10 or 10,000 images
+- **No watermark** on the tool itself — clean output
+- **Free & Open Source** — MIT license
+
+---
+
+## 🎨 Use Cases
+
+| Scenario | How CyperMark helps |
+|----------|-------------------|
+| **AI Art protection** | Stamp your handle/site on AI generations before posting |
+| **Photography portfolio** | Batch copyright all proofs before client delivery |
+| **Etsy / Amazon listings** | Add store logo to 200+ product photos in one go |
+| **Social media content** | Brand your visuals consistently |
+| **Internal documents** | Mark "CONFIDENTIAL" across sensitive images |
+| **Stock photo submission** | Add preview watermarks, remove for buyers |
+
+---
+
+## 🔍 Tags / Keywords
+
+```
+batch watermark tool, bulk image watermark, mass logo stamp, 
+watermark software windows, AI watermark, protect AI art, 
+copyright tool, image protection, batch photo watermark, 
+free watermark software, portable watermark, no install watermark,
+logo stamp tool, bulk copyright, image batch processor,
+watermark AI art, photography watermark,  watermark 500 photos,
+CyperMark, cyper watermark, text watermark, image watermark
 ```
 
 ---
 
-## 🇬🇧 CyperMark (English)
+## 🌍 Supported Languages
 
-**CyperMark** is a fast batch watermark tool for images. Built for AI artists, photographers, and content creators.
+| Flag | Language | Flag | Language | Flag | Language |
+|------|----------|------|----------|------|----------|
+| 🇷🇺 | Русский | 🇬🇧 | English | 🇩🇪 | Deutsch |
+| 🇫🇷 | Français | 🇪🇸 | Español | 🇮🇹 | Italiano |
+| 🇧🇷 | Português | 🇨🇳 | 中文 | 🇯🇵 | 日本語 |
+| 🇰🇷 | 한국어 | 🇸🇦 | العربية | 🇹🇷 | Türkçe |
+| 🇵🇱 | Polski | 🇳🇱 | Nederlands | 🇸🇪 | Svenska |
 
-### Features
+---
 
-- ✏️ **Text Watermark** — full customization: 147+ fonts, color, stroke
-- 🖼️ **Image Watermark** — PNG, JPG, WEBP, BMP, TIFF (alpha support)
-- 📦 **Batch Processing** — 500 photos in 30 seconds
-- 🎯 **AI Auto-Placement** — smart positioning in low-detail areas
-- 🔄 **Tile Mode** — full-surface watermark with rotation
-- 👁️ **Live Preview** — instant feedback on all changes
-- 💾 **Output** — PNG / JPEG / WebP with quality control
-- 📁 **Presets** — save/load your favorite configurations
+## ⚙️ Requirements (source)
 
-### Quick Start
+- Python 3.11+
+- Pillow, customtkinter, opencv-python, numpy
 
-1. Download the latest `.exe` from [Releases](https://github.com/cyperxyk-lang/CyperMark/releases)
-2. Run `CyperMark_v2.exe` — no installation required
-3. Add images → configure watermark → click START
-
-Or run from source:
 ```bash
 pip install -r requirements.txt
-python main_v2.py
 ```
 
 ---
 
-## ☕ Support / Поддержка
+## ☕ Support
 
-If you find this tool useful, consider supporting the project:
+If CyperMark saves you time, consider supporting:
 
 <p align="center">
   <a href="https://dalink.to/doublehook">
-    <img src="https://img.shields.io/badge/Donate-DonationAlerts-orange?style=for-the-badge&logo=alipay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/❤️%20Donate-DonationAlerts-orange?style=for-the-badge&logo=alipay&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📄 License / Лицензия
+## 📄 License
 
-MIT License — free for personal and commercial use.
+**MIT License** — free for personal and commercial use.  
+Copyright © 2026 Cyper
+
+---
+
+<p align="center">
+  <b>⭐ Star this repo if you find it useful! ⭐</b><br>
+  <a href="https://github.com/cyperxyk-lang/CyperMark">github.com/cyperxyk-lang/CyperMark</a>
+</p>
