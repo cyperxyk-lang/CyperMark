@@ -57,17 +57,18 @@ Designed for:
 ## 📸 Examples
 
 <p align="center">
-  <i>AI-generated art protected with CyperMark text + logo watermark (bottom-right, 60% opacity)</i>
+  <i>AI-generated art protected with CyperMark watermark (bottom-right, 60% opacity)</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_1.png" width="200"/>
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_2.png" width="200"/>
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_3.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_1.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_2.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_3.png" width="200"/>
   <br>
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_4.png" width="200"/>
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_5.png" width="200"/>
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_watermarked_6.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_4.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_5.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_6.png" width="200"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/example_7.png" width="200"/>
 </p>
 
 ---
@@ -75,7 +76,7 @@ Designed for:
 ## 🖥️ Screenshot
 
 <p align="center">
-  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/screenshot.png" width="700"/>
+  <img src="https://github.com/cyperxyk-lang/CyperMark/releases/download/v2.0/screenshot.png" width="800"/>
 </p>
 
 ---
